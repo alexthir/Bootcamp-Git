@@ -1,2 +1,2 @@
-const name = "World";
+const name = "Alex"; 
 console.log("Hello, " + name + "!");
